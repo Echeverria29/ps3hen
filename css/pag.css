@@ -1,0 +1,30 @@
+.body {
+  background: url(../img/hp7.jpg) no-repeat center fixed;
+  background-size: cover;
+
+  min-height: 100vh;
+  height: 100%;
+}
+.boton1 {
+  text-align: center;
+  margin-top: 300px;
+  justify-content: center;
+  height: 30px;
+  font-size: large;
+}
+
+.boton2 {
+  text-align: center;
+  margin-top: 30px;
+  justify-content: center;
+  height: 30px;
+}
+.boton3 {
+  text-align: center;
+  margin-top: 30px;
+  justify-content: center;
+  height: 30px;
+}
+.menu {
+  text-align: center;
+}
